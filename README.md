@@ -7,8 +7,5 @@ When the slope m is greater than 1, it means the line is steeper, and for each s
 * The output of Task 1 is : Case 1 Points: Case 1 Points: [(1, 1), (2, 1), (3, 2), (4, 2), (5, 3), (6, 3), (7, 4), (8, 4)]
 
 Case 1 Line Drawing:
-. . . . . . . . .
-. # # . . . . . .
-. . . # # . . . .
-. . . . . # # . .
-. . . . . . . # #
+
+![Image1](/media/bijon/myHDD/Code/Git/CGI/CGI_Tasks/Img/Screenshot from 2024-02-09 15-02-25.png)
