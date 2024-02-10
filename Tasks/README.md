@@ -8,4 +8,5 @@ When the slope m is greater than 1, it means the line is steeper, and for each s
 
 Case 1 Line Drawing:
 
-![Image1](/media/bijon/myHDD/Code/Git/CGI/CGI_Tasks/Img/Screenshot from 2024-02-09 15-02-25.png)
+
+![Screenshot from 2024-02-09 15-02-25](https://github.com/BijonDurjoy/CGI/assets/94054428/fd6c0220-7ee2-4692-b8bb-bb15039057a0)
