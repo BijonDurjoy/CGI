@@ -10,3 +10,7 @@ Case 1 Line Drawing:
 
 
 ![Screenshot from 2024-02-09 15-02-25](https://github.com/BijonDurjoy/CGI/assets/94054428/fd6c0220-7ee2-4692-b8bb-bb15039057a0)
+
+* Case 2 Points: [(1, 1), (1, 2), (2, 3), (2, 4), (3, 5), (3, 6), (4, 7), (4, 8)]
+
+Case 2 Line Drawing: 
